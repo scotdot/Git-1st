@@ -5,3 +5,13 @@ h1 {
     background: rgb(131, 82, 131);
     color: rgb(226, 212, 212);
 }
+.commit3 {
+    margin: 20px;
+    background-color: aquamarine;   
+}
+.commit,
+ button {
+    color: blue;
+    margin-left: 50%;
+    margin-bottom: 10px;
+}
